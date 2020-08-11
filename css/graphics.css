@@ -82,7 +82,7 @@ ul{
     margin-bottom:55px;
   display: block;
   margin-left: auto;
-  margin-right: auto;   
+  margin-right: auto;
 }
 
 
@@ -189,7 +189,7 @@ width: 130px;
     }
 }
 .chart{
- width: 100%;   
+ width: 100%;
 }
 .intro {
     display: table;
@@ -233,7 +233,7 @@ width: 130px;
     border: none;
     font-weight: 400;
     padding: 12px;
-   
+
 }
 
 @media(min-width:767px) {
@@ -292,7 +292,7 @@ width: 130px;
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -309,7 +309,7 @@ width: 130px;
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -407,7 +407,7 @@ ul.banner-social-buttons {
     ul.banner-social-buttons li:last-child {
         margin-bottom: 0;
     }
-    
+
     .logo{
  display: inline;
  background-image: url(../img/urban.png);

@@ -34,6 +34,7 @@
     margin-bottom:30px;
     clear:both;
 }
+
 .dark {
     color: #fff;
 }
@@ -56,7 +57,7 @@
 }
 .swatch{
     -webkit-print-color-adjust: exact;
-    
+
 }
 .color-code{
     font-size: 0.9em;
@@ -64,15 +65,39 @@
     min-height: 60px;
 }
 .color-group{
- margin-bottom: 30px; 
+ margin-bottom: 30px;
     height: auto;
     display: block;
 }
 
 /*COLORS*/
+.coral{background-color:#ff5a27;}
+.seabreeze{background-color:#47a9c4;}
+.deepsea{background-color:#002e5d;}
+.algae{background-color:#38baa4;}
+.gray{background-color:#848383;}
+.pale-coral{background-color: #ff9f85;}
+
+.coral-1{background-color:#551e0d;}
+.coral-2{background-color:#8e3216;}
+.coral-3{background-color:#c6461e;}
+.coral-4{background-color:#ff5a27;}
+.coral-5{background-color:#ff8c69;}
+.coral-6{background-color:#ffc0ac;}
+
+.seabreeze-1{background-color:#183841;}
+.seabreeze-2{background-color:#285e6d;}
+.seabreeze-3{background-color:#378398;}
+.seabreeze-4{background-color:#47a9c4;}
+.seabreeze-5{background-color:#89c8d9;}
+.seabreeze-6{background-color:#cae6ee;}
+
+
 .blue{background-color:#1696d2;}
 .yellow{background-color:#FDBF11;}
-.gray{background-color:#D2D2D2;}
+
+
+
 .magenta{background-color:#EC008B;}
 .green{background-color:#55B748;}
 .space-gray{background-color:#332D2F;}
