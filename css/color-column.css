@@ -60,6 +60,8 @@
 
 }
 .color-code{
+    font-family: franklin-gothic-urw,sans-serif;
+    font-weight: 400;
     font-size: 0.9em;
     text-align: center;
     min-height: 60px;
@@ -77,6 +79,9 @@
 .algae{background-color:#38baa4;}
 .gray{background-color:#848383;}
 .pale-coral{background-color: #ff9f85;}
+.light-seabreeze{background-color: #90d5e0;}
+.pale-algae{background-color: #90d3c3;}
+.pale-gray{background-color: #cecece;}
 
 .coral-1{background-color:#551e0d;}
 .coral-2{background-color:#8e3216;}
